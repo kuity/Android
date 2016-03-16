@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string-array name="sortcategories">
+        <item>Most popular</item>
+        <item>Highest rated</item>
+    </string-array>
+</resources>
